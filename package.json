@@ -1,0 +1,12 @@
+{
+  "name": "@dexroboknix/dexspine-core",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Deterministic cognitive infrastructure for LLM collaboration.",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-dexspine.mjs"
+  },
+  "license": "TBD"
+}
+
