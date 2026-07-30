@@ -7,6 +7,8 @@
 
 ---
 
+> **Canonical copy:** This is the canonical specification authority for the DexSpine cognitive infrastructure and DEX838 wire grammar; `packages/dexspine-core` is the canonical JS/Node.js runtime parser that implements it.
+
 ## 1. What is DEXSPINE?
 
 DEXSPINE is a universal cognitive infrastructure designed to provide a stable, vendor-agnostic foundation for artificial intelligence and human collaboration. It is not a product, but a spine—a structural framework that ensures context preservation, decision grounding, and architectural consistency across sessions, models, and platforms. By using Markdown as its wire protocol, DEXSPINE remains human-readable and machine-parseable, serving as the irreducible core of cognitive systems.
