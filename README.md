@@ -1,8 +1,29 @@
+> **Layer: L1 (defines).** DexSpine is the standard that L2 products conform to. Pre-1.0 / prototype; nothing here is a shipped product.
+>
+> **Used by dex.md for:** Stage 2 clones it pinned at commit `fbcd0a89008e87416c5a0bfe6b56524b584b49a8` for the standard's base questions and DEX838 notation.
+>
+> **Licence:** OpenCore. This repo is the AGPL-3.0 Core edition (see [LICENSE](./LICENSE)). No Enterprise edition exists yet.
+
+## Which document do I read?
+
+| I want to... | Read |
+|---|---|
+| Have an LLM build, test and scan this repo | [START.md](./START.md) |
+| Do the human steps (run, check, release) | [docs/](./docs/README.md) |
+| Understand the 8:3:8 Dexfilter | [DEXFILTER.md](./DEXFILTER.md) |
+| Understand reduction by addition | [REDUCTION_BY_ADDITION.md](./REDUCTION_BY_ADDITION.md) |
+| See the case study | [CASESTUDY.md](./CASESTUDY.md) |
+| See what this repo contains today | [REPO-STATUS.md](./REPO-STATUS.md) |
+| Cut a release | [RELEASING.md](./RELEASING.md) |
+| Agent project rules | [CLAUDE.md](./CLAUDE.md) |
+
+---
+
 # DEXSPINE: Universal Cognitive Infrastructure
 
 **Version:** 0.1.0-L0  
 **Status:** Alpha / Draft  
-**License:** TBD  
+**License:** AGPL-3.0 (Core)  
 **Date:** 2026-02-09
 
 ---

@@ -7,6 +7,6 @@
   "scripts": {
     "validate": "node scripts/validate-dexspine.mjs"
   },
-  "license": "TBD"
+  "license": "AGPL-3.0-only"
 }
 
