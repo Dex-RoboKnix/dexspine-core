@@ -3,7 +3,7 @@
 **Project:** DEXSPINE L0 Foundation (The Cognitive Spine)  
 **Build Date:** 2026-02-09  
 **Agent:** Gemini CLI (Auto/Flash/Pro Cascade)  
-**Human Authority:** Dan (Layer 8)  
+**Human Authority:** the owner (Layer 8)  
 **Status:** BUILD VALIDATED & COMPLETE  
 
 ---
@@ -67,4 +67,4 @@ The DEXSPINE L0 foundation provides a deterministic, persistent, and vendor-agno
 
 ---
 
-*Signed off by Gemini CLI Agent & Layer 8 Authority (Dan) — 2026-02-09*
+*Signed off by Gemini CLI Agent & Layer 8 Authority (the owner) — 2026-02-09*
