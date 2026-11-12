@@ -3,13 +3,16 @@ provenance: AAC
 layer: L1
 ---
 
-# DEXSPINE: Universal Cognitive Infrastructure
+# dexspine-core
 
-**Layer: L1** (defines: the DEX838 standard and DexSpine; L2 products conform to it). Pre-1.0. Part of DexRoboKnix: every component and repo is listed in the [sitemap](https://github.com/Dex-RoboKnix/Dex_RoboKnix/blob/main/SITEMAP.md).
+The reference corpus of DexSpine: the DEX838 standard and the 8:3:8 Dexfilter written out as a node corpus, with a validator script that checks it.
+
+**Layer: L1** (the DexSpine standard: the DEX838 wire syntax and the 8:3:8 Dexfilter; this repo is its reference implementation). Pre-1.0 prototype.
+**Licence:** AGPL-3.0-or-later, the open Core edition. Core never depends on Enterprise code; no Enterprise edition exists yet.
+**Part of:** L1, with DexRoboKnix governance
 
 **Version:** 0.1.0-L0  
 **Status:** Alpha / Draft  
-**License:** AGPL-3.0 (Core)  
 **Date:** 2026-02-09
 
 ---
@@ -120,5 +123,5 @@ OpenCore: this Core edition is AGPL-3.0 ([`LICENSE`](LICENSE)). No Enterprise ed
 ## The Asymptotic Guarantee
 DEXSPINE pursues the 100% state. While perfection is never achieved, the structure ensures that we are always moving closer. 99.99% + 0.01% = 100%.
 
-Built on a bench in Leeds. Infrastructure for everyone.
+Infrastructure for everyone.
 
